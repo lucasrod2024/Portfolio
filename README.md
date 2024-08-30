@@ -14,8 +14,9 @@ Welcome to my portfolio! This site showcases my work as a frontend developer.
 To view this portfolio locally:
 [Portfolio.zip](https://github.com/user-attachments/files/16809343/Portfolio.zip)
 
-1. Clone this repository.
-2. Open `index.html` in your web browser.
+1. Download the Zip File: Click the Portfolio.zip link to download the file.
+2. Extract the Zip File: Unzip the downloaded file to a folder on your computer.
+3. Open the Portfolio: Open index.html from the extracted folder in your web browser.
 
 ## Usage
 Navigate through the portfolio to view my projects, skills, and contact information.
